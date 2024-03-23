@@ -37,6 +37,8 @@
 
 <p>Review Page</p>
 ![Review](https://github.com/DileepMeena6531/Airbnb_clone/assets/94539597/c04b0609-d161-458b-b387-f3a3bc66ef59)
+![Review](https://raw.githubusercontent.com/DileepMeena6531/Airbnb_clone/main/assets/review-image.png)
+
 
 
 
