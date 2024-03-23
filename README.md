@@ -23,18 +23,18 @@
 <p>https://wanderlust-major-project-dk.onrender.com/listings</p>
 
 <h3>Images</h3>
-<p>Home Page</p>
+<h4>Home Page</h4>
 <img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221863/Home_page_juk5zy.png">
-<p>Show Page</p>
+<h4>Show Page</h4>
 <img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221880/show_page_jvut6l.png">
-<p>Sign Up And Log In Pages</p>
+<h4>Sign Up And Log In Pages</h4>
 <img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221879/signup_cs7c3s.png">
 <img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221879/login_n5fkey.png">
-<p>Add New Home detail</p>
+<h4>Add New Home detail</h4>
 <img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221896/add_listing_xdqhmw.png" >
-<p>Edit Page</p>
+<h4>Edit Page</h4>
 <img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221896/Edit_Page_g4kxgw.png" alt="Edit img">
-<p>Review Page</p>
+<h4>Review Page</h4>
 <img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221896/Review_b4caov.png" alt="Review img" >
 
 
