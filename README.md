@@ -36,7 +36,7 @@
 [![Edit Page](https://github.com/DileepMeena6531/Airbnb_clone/assets/94539597/d1f52ed1-6fd7-4220-98d6-9e29b72a7a66)
 ](https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221896/Edit_Page_g4kxgw.png)
 <p>Review Page</p>
-https://github.com/DileepMeena6531/Airbnb_clone/assets/94539597/c04b0609-d161-458b-b387-f3a3bc66ef59 (https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221896/Review_b4caov.png) 
+<img src="https://res.cloudinary.com/dnthrpbmu/image/upload/v1711221896/Review_b4caov.png" alt="Review img" >
 
 
 
