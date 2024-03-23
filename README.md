@@ -20,4 +20,4 @@
 <li>npm i mongoose</li>
 
 <h2>Project Link</h2>
-<p>#https://airbnb-clonedk.onrender.com/listings</p>
+<p>https://airbnb-clonedk.onrender.com/listings</p>
